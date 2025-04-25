@@ -1,3 +1,6 @@
 [template]
+ignore = [ 
+"cliff.toml"
+]
 # include and exclude are exclusive, if both appear we will use include
 exclude = ["cliff.toml"]
